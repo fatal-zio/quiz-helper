@@ -1,0 +1,162 @@
+{
+  "1": {
+    "question": "Which practice is responsible for moving components to live environments?",
+    "answers": [
+      { "a": "Change Control" },
+      { "b": "Release Management" },
+      { "c": "IT asset Managment" },
+      { "d": "Deployment Management" }
+    ]
+  },
+  "2": {
+    "question": "Which practice includes the classification and ownership of queries and requests from users?",
+    "answers": [
+      { "a": "Service Desk" },
+      { "b": "Incident Management" },
+      { "c": "Change Control" },
+      { "d": "Service Level Management" }
+    ]
+  },
+  "3": {
+    "question": "Which practice identifies metrics that reflect the customer's experience of a service?",
+    "answers": [
+      { "a": "Continual Improvement" },
+      { "b": "Service Desk" },
+      { "c": "Service Level Management" },
+      { "d": "Problem Management" }
+    ]
+  },
+  "4": {
+    "question": "What is the PRIMARY use of a change schedule?",
+    "answers": [
+      { "a": "To support Incident Managment and Improvement Planning" },
+      { "b": "To manage emergency changes" },
+      { "c": "To plan changes and help avoid conflics" },
+      { "d": "To manage standard changes" }
+    ]
+  },
+  "5": {
+    "question": "Which service management dimension is focused on activities and how these are coordinated?",
+    "answers": [
+      { "a": "Organizations and people" },
+      { "b": "Information and Technology" },
+      { "c": "Partners and Suppliers" },
+      { "d": "Value Streams and Processes" }
+    ]
+  },
+  "6": {
+    "question": "How does categorization of incidents aassist the Incident Management practice?",
+    "answers": [
+      { "a": "It helps direct the incident to the correct support area" },
+      { "b": "It determines the priority assigned to the Incident" },
+      { "c": "It ensures the Incidents are resolved in timescales agreed with the customer" },
+      { "d": "It determines how the service provider is perceived" }
+    ]
+  },
+  "7": {
+    "question": "A Service is a means of enabling value co-creation by facilitating ________ that customers want to achieve.",
+    "answers": [
+      { "a": "the warranty" },
+      { "b": "outcomes" },
+      { "c": "the utility" },
+      { "d": "outputs" }
+    ]
+  },
+  "8": {
+    "question": "Which is a recommendation of the Continual Improvement practice?",
+    "answers": [
+      { "a": "There should be at least a small team dedicated to Continual Improvement efforts" },
+      { "b": "All improvements should be managed as multi-phase projects" },
+      { "c": "Consinual Improvement should be isolated from other practices" },
+      { "d": "External suppliers should be excluded from improvement" }
+    ]
+  },
+  "9": {
+    "question": "Which is a potential benefit of using an IT Service Management tool to support the Incident Management practice?",
+    "answers": [
+      { "a": "It may ensure that the cause of incidents is identified within agreed times" },
+      { "b": "It may provide automated matching of incidents to problems or known errors" },
+      { "c": "It may ensure that supplier contracts are aligned with th eneeds of the Service Provider" },
+      { "d": "It may provide automated resolution and closure of complex incidents" }
+    ]
+  },
+  "10": {
+    "question": "Which role submits Service Requests?",
+    "answers": [
+      { "a": "the User" },
+      { "b": "the Customer" },
+      { "c": "the Sponsor" },
+      { "d": "the Supplier" }
+    ]
+  },
+  "11": {
+    "question": "Which practice provides s single point of contact for the users?",
+    "answers": [
+      { "a": "Incident Management" },
+      { "b": "Change Control" },
+      { "c": "Service Desk" },
+      { "d": "Service Request Management" }
+    ]
+  },
+  "12": {
+    "question": "Which guiding principle recommends that the four dimentions of Service Management are considered?",
+    "answers": [
+      { "a": "Think and work holistically" },
+      { "b": "Progress iteratively with feedback" },
+      { "c": "Focus on Value" },
+      { "d": "Keep it simple and practical" }
+    ]
+  },
+  "13": {
+    "question": "Which would be supported by the Service Request Management practice?",
+    "answers": [
+      { "a": "A request to authorize a change that could have an effect on a service" },
+      { "b": "A request from a user for something which is a normal part of service delivery" },
+      { "c": "A request to restore service after a service interruption" },
+      { "d": "A request to investigate the cause of multiple related incidents" }
+    ]
+  },
+  "14": {
+    "question": "Which practice is the responsibility of everyone in the organization?",
+    "answers": [
+      { "a": "Service Level Management" },
+      { "b": "Change Control" },
+      { "c": "Problem Management" },
+      { "d": "Continual Improvement" }
+    ]
+  },
+  "15": {
+    "question": "The purpose of the Information Security Management practice is to ________ the organization's information",
+    "answers": [
+      { "a": "store" },
+      { "b": "provide" },
+      { "c": "audit" },
+      { "d": "protect" }
+    ]
+  },
+  "16": "b",
+  "17": "c",
+  "18": "a",
+  "19": "b",
+  "20": "c",
+  "21": "b",
+  "22": "d",
+  "23": "a",
+  "24": "b",
+  "25": "c",
+  "26": "b",
+  "27": "d",
+  "28": "c",
+  "29": "c",
+  "30": "a",
+  "31": "c",
+  "32": "a",
+  "33": "a",
+  "34": "c",
+  "35": "d",
+  "36": "d",
+  "37": "b",
+  "38": "c",
+  "39": "d",
+  "40": "b"
+}

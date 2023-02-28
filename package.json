@@ -1,0 +1,14 @@
+{
+  "name": "quizhelper",
+  "version": "1.0.0",
+  "description": "Utility for practicising quizzes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jayme Desrosiers",
+  "license": "MIT",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
