@@ -1,10 +1,8 @@
 {
-  "answers": [
-    {
-      "a": "There should be at least a small team dedicated to Continual Improvement efforts"
-    },
-    { "b": "All improvements should be managed as multi-phase projects" },
-    { "c": "Consinual Improvement should be isolated from other practices" },
-    { "d": "External suppliers should be excluded from improvement" }
-  ]
+  "answers": {
+    "a": "There should be at least a small team dedicated to Continual Improvement efforts",
+    "b": "All improvements should be managed as multi-phase projects",
+    "c": "Continual Improvement should be isolated from other practices",
+    "d": "External suppliers should be excluded from improvement"
+  }
 }

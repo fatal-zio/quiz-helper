@@ -1,386 +1,295 @@
 {
   "1": {
     "question": "Which practice is responsible for moving components to live environments?",
-    "answers": [
-      { "a": "Change Control" },
-      { "b": "Release Management" },
-      { "c": "IT asset Managment" },
-      { "d": "Deployment Management" }
-    ]
+    "answers": {
+      "a": "Change Control",
+      "b": "Release Management",
+      "c": "IT asset Managment",
+      "d": "Deployment Management"
+    }
   },
   "2": {
     "question": "Which practice includes the classification and ownership of queries and requests from users?",
-    "answers": [
-      { "a": "Service Desk" },
-      { "b": "Incident Management" },
-      { "c": "Change Control" },
-      { "d": "Service Level Management" }
-    ]
+    "answers": {
+      "a": "Service Desk",
+      "b": "Incident Management",
+      "c": "Change Control",
+      "d": "Service Level Management"
+    }
   },
   "3": {
     "question": "Which practice identifies metrics that reflect the customer's experience of a service?",
-    "answers": [
-      { "a": "Continual Improvement" },
-      { "b": "Service Desk" },
-      { "c": "Service Level Management" },
-      { "d": "Problem Management" }
-    ]
+    "answers": {
+      "a": "Continual Improvement",
+      "b": "Service Desk",
+      "c": "Service Level Management",
+      "d": "Problem Management"
+    }
   },
   "4": {
     "question": "What is the PRIMARY use of a change schedule?",
-    "answers": [
-      { "a": "To support Incident Managment and Improvement Planning" },
-      { "b": "To manage emergency changes" },
-      { "c": "To plan changes and help avoid conflics" },
-      { "d": "To manage standard changes" }
-    ]
+    "answers": {
+      "a": "To support Incident Managment and Improvement Planning",
+      "b": "To manage emergency changes",
+      "c": "To plan changes and help avoid conflics",
+      "d": "To manage standard changes"
+    }
   },
   "5": {
     "question": "Which service management dimension is focused on activities and how these are coordinated?",
-    "answers": [
-      { "a": "Organizations and people" },
-      { "b": "Information and Technology" },
-      { "c": "Partners and Suppliers" },
-      { "d": "Value Streams and Processes" }
-    ]
+    "answers": {
+      "a": "Organizations and people",
+      "b": "Information and Technology",
+      "c": "Partners and Suppliers",
+      "d": "Value Streams and Processes"
+    }
   },
   "6": {
     "question": "How does categorization of incidents aassist the Incident Management practice?",
-    "answers": [
-      { "a": "It helps direct the incident to the correct support area" },
-      { "b": "It determines the priority assigned to the Incident" },
-      {
-        "c": "It ensures the Incidents are resolved in timescales agreed with the customer"
-      },
-      { "d": "It determines how the service provider is perceived" }
-    ]
+    "answers": {
+      "a": "It helps direct the incident to the correct support area",
+      "b": "It determines the priority assigned to the Incident",
+      "c": "It ensures the Incidents are resolved in timescales agreed with the customer",
+      "d": "It determines how the service provider is perceived"
+    }
   },
   "7": {
     "question": "A Service is a means of enabling value co-creation by facilitating ________ that customers want to achieve.",
-    "answers": [
-      { "a": "the warranty" },
-      { "b": "outcomes" },
-      { "c": "the utility" },
-      { "d": "outputs" }
-    ]
+    "answers": {
+      "a": "the warranty",
+      "b": "outcomes",
+      "c": "the utility",
+      "d": "outputs"
+    }
   },
   "8": {
     "question": "Which is a recommendation of the Continual Improvement practice?",
-    "answers": [
-      {
-        "a": "There should be at least a small team dedicated to Continual Improvement efforts"
-      },
-      { "b": "All improvements should be managed as multi-phase projects" },
-      { "c": "Consinual Improvement should be isolated from other practices" },
-      { "d": "External suppliers should be excluded from improvement" }
-    ]
+    "answers": {
+      "a": "There should be at least a small team dedicated to Continual Improvement efforts",
+      "b": "All improvements should be managed as multi-phase projects",
+      "c": "Continual Improvement should be isolated from other practices",
+      "d": "External suppliers should be excluded from improvement"
+    }
   },
   "9": {
     "question": "Which is a potential benefit of using an IT Service Management tool to support the Incident Management practice?",
-    "answers": [
-      {
-        "a": "It may ensure that the cause of incidents is identified within agreed times"
-      },
-      {
-        "b": "It may provide automated matching of incidents to problems or known errors"
-      },
-      {
-        "c": "It may ensure that supplier contracts are aligned with th eneeds of the Service Provider"
-      },
-      {
-        "d": "It may provide automated resolution and closure of complex incidents"
-      }
-    ]
+    "answers": {
+      "a": "It may ensure that the cause of incidents is identified within agreed times",
+      "b": "It may provide automated matching of incidents to problems or known errors",
+      "c": "It may ensure that supplier contracts are aligned with th eneeds of the Service Provider",
+      "d": "It may provide automated resolution and closure of complex incidents"
+    }
   },
   "10": {
     "question": "Which role submits Service Requests?",
-    "answers": [
-      { "a": "the User" },
-      { "b": "the Customer" },
-      { "c": "the Sponsor" },
-      { "d": "the Supplier" }
-    ]
+    "answers": {
+      "a": "the User",
+      "b": "the Customer",
+      "c": "the Sponsor",
+      "d": "the Supplier"
+    }
   },
   "11": {
     "question": "Which practice provides s single point of contact for the users?",
-    "answers": [
-      { "a": "Incident Management" },
-      { "b": "Change Control" },
-      { "c": "Service Desk" },
-      { "d": "Service Request Management" }
-    ]
+    "answers": {
+      "a": "Incident Management",
+      "b": "Change Control",
+      "c": "Service Desk",
+      "d": "Service Request Management"
+    }
   },
   "12": {
     "question": "Which guiding principle recommends that the four dimentions of Service Management are considered?",
-    "answers": [
-      { "a": "Think and work holistically" },
-      { "b": "Progress iteratively with feedback" },
-      { "c": "Focus on Value" },
-      { "d": "Keep it simple and practical" }
-    ]
+    "answers": {
+      "a": "Think and work holistically",
+      "b": "Progress iteratively with feedback",
+      "c": "Focus on Value",
+      "d": "Keep it simple and practical"
+    }
   },
   "13": {
     "question": "Which would be supported by the Service Request Management practice?",
-    "answers": [
-      {
-        "a": "A request to authorize a change that could have an effect on a service"
-      },
-      {
-        "b": "A request from a user for something which is a normal part of service delivery"
-      },
-      { "c": "A request to restore service after a service interruption" },
-      {
-        "d": "A request to investigate the cause of multiple related incidents"
-      }
-    ]
+    "answers": {
+      "a": "A request to authorize a change that could have an effect on a service",
+      "b": "A request from a user for something which is a normal part of service delivery",
+      "c": "A request to restore service after a service interruption",
+      "d": "A request to investigate the cause of multiple related incidents"
+    }
   },
   "14": {
     "question": "Which practice is the responsibility of everyone in the organization?",
-    "answers": [
-      { "a": "Service Level Management" },
-      { "b": "Change Control" },
-      { "c": "Problem Management" },
-      { "d": "Continual Improvement" }
-    ]
+    "answers": {
+      "a": "Service Level Management",
+      "b": "Change Control",
+      "c": "Problem Management",
+      "d": "Continual Improvement"
+    }
   },
   "15": {
     "question": "The purpose of the Information Security Management practice is to ________ the organization's information",
-    "answers": [
-      { "a": "store" },
-      { "b": "provide" },
-      { "c": "audit" },
-      { "d": "protect" }
-    ]
+    "answers": { "a": "store", "b": "provide", "c": "audit", "d": "protect" }
   },
   "16": {
     "question": "Which guiding principle recommends collecting data before deciding what can be re-used?",
-    "answers": [
-      { "a": "Focus on Value" },
-      { "b": "Start where you are" },
-      { "c": "Keep it simple and practical" },
-      { "d": "Progress iteratively with feedback" }
-    ]
+    "answers": {
+      "a": "Focus on Value",
+      "b": "Start where you are",
+      "c": "Keep it simple and practical",
+      "d": "Progress iteratively with feedback"
+    }
   },
   "17": {
     "question": "Which is NOT usually included as part of Incident Management?",
-    "answers": [
-      { "a": "Scripts for collecting initial information about incidents" },
-      { "b": "Formalized procedures for logging incidents" },
-      { "c": "Detailed procedures for the diagnosis of incidents" },
-      { "d": "The use of specializaed knowledge for complicated incidents" }
-    ]
+    "answers": {
+      "a": "Scripts for collecting initial information about incidents",
+      "b": "Formalized procedures for logging incidents",
+      "c": "Detailed procedures for the diagnosis of incidents",
+      "d": "The use of specializaed knowledge for complicated incidents"
+    }
   },
   "18": {
     "question": "Which describes the nature of guiding principles?",
-    "answers": [
-      {
-        "a": "Guiding principles can guide an organization in all curcumstances"
-      },
-      { "b": "Each guiding principle mandates specific actions and decisions" },
-      {
-        "c": "An organization will select and adopt only one of the seven guiding principles"
-      },
-      {
-        "d": "Guiding principles describe the processes that all organizations must adopt"
-      }
-    ]
+    "answers": {
+      "a": "Guiding principles can guide an organization in all curcumstances",
+      "b": "Each guiding principle mandates specific actions and decisions",
+      "c": "An organization will select and adopt only one of the seven guiding principles",
+      "d": "Guiding principles describe the processes that all organizations must adopt"
+    }
   },
   "19": {
     "question": "Which statement about a change authority is Correct?",
-    "answers": [
-      {
-        "a": "A single change authority should be assigned to authorize all types of change and change models"
-      },
-      {
-        "b": "A change authority should be assigned for each type of change and change model"
-      },
-      {
-        "c": "Normal changes are pre-authorized and do not need a change authority"
-      },
-      {
-        "d": "Emergency changes can be implemented without authorization froma  change authority"
-      }
-    ]
+    "answers": {
+      "a": "A single change authority should be assigned to authorize all types of change and change models",
+      "b": "A change authority should be assigned for each type of change and change model",
+      "c": "Normal changes are pre-authorized and do not need a change authority",
+      "d": "Emergency changes can be implemented without authorization froma  change authority"
+    }
   },
   "20": {
     "question": "Which practice has the purpose of making new anc changed services and features available for use?",
-    "answers": [
-      { "a": "Change Control" },
-      { "b": "Service Request Management" },
-      { "c": "Release Management" },
-      { "d": "Deployment Management" }
-    ]
+    "answers": {
+      "a": "Change Control",
+      "b": "Service Request Management",
+      "c": "Release Management",
+      "d": "Deployment Management"
+    }
   },
   "21": {
     "question": "Which value chain activity ensures people understand the organization's vision?",
-    "answers": [
-      { "a": "Improve" },
-      { "b": "Plan" },
-      { "c": "Deliver and Support" },
-      { "d": "Obtain/Build" }
-    ]
+    "answers": {
+      "a": "Improve",
+      "b": "Plan",
+      "c": "Deliver and Support",
+      "d": "Obtain/Build"
+    }
   },
   "22": {
     "question": "Which statement about the value chain activities is Correct?",
-    "answers": [
-      { "a": "Every practice belongs to a specific value chain activity" },
-      {
-        "b": "A specific combination of value chain activities and practices forms a service relationship"
-      },
-      {
-        "c": "Service value chain activities forma  single workflow that enables value creation"
-      },
-      {
-        "d": "Each value chain activity contributes to the value chain by transforming specific inputs into outputs"
-      }
-    ]
+    "answers": {
+      "a": "Every practice belongs to a specific value chain activity",
+      "b": "A specific combination of value chain activities and practices forms a service relationship",
+      "c": "Service value chain activities forma  single workflow that enables value creation",
+      "d": "Each value chain activity contributes to the value chain by transforming specific inputs into outputs"
+    }
   },
   "23": {
     "question": "Which is the purpose of the Supplier Management practice?",
-    "answers": [
-      {
-        "a": "To ensure that the organization's suppliers and their performance are managed appropriately to support the seamless provision of quality products and services"
-      },
-      {
-        "b": "To align the organization's practices and services with changing business needs through the ongoing identification and improvement of services"
-      },
-      {
-        "c": "to ensure that the organization's supppliers and their performance are managed appropriately at strategic and tactical levels through coordinated marketing, selling, and delivery activities"
-      },
-      {
-        "d": "To ensure that the accurate and reliable information about the configuation of suppliers' services is available when and where it is needed"
-      }
-    ]
+    "answers": {
+      "a": "To ensure that the organization's suppliers and their performance are managed appropriately to support the seamless provision of quality products and services",
+      "b": "To align the organization's practices and services with changing business needs through the ongoing identification and improvement of services",
+      "c": "to ensure that the organization's supppliers and their performance are managed appropriately at strategic and tactical levels through coordinated marketing, selling, and delivery activities",
+      "d": "To ensure that the accurate and reliable information about the configuation of suppliers' services is available when and where it is needed"
+    }
   },
   "24": {
     "question": "What are the two types of cost that a service consumer should evaluate?",
-    "answers": [
-      { "a": "The price of the service, and the cost of creating a service" },
-      {
-        "b": "The costs removed by the service, and the costs imposed by the service"
-      },
-      {
-        "c": "The cost of provisioning the service, and the cost of improving the service"
-      },
-      { "d": "The cost of software, and the cost of hardware" }
-    ]
+    "answers": {
+      "a": "The price of the service, and the cost of creating a service",
+      "b": "The costs removed by the service, and the costs imposed by the service",
+      "c": "The cost of provisioning the service, and the cost of improving the service",
+      "d": "The cost of software, and the cost of hardware"
+    }
   },
   "25": {
     "question": "Which is a purpose of the Service Desk practice?",
-    "answers": [
-      {
-        "a": "To reduce the likelihood and impact of incidents by identifying actual and potential causes of incidents"
-      },
-      {
-        "b": "To maximiza the number of successful IT changes by ensuring risks are properly assessed"
-      },
-      { "c": "To capture demand for incident resolution and serivce requests" },
-      { "d": "To set clear business-based targets for service performance" }
-    ]
+    "answers": {
+      "a": "To reduce the likelihood and impact of incidents by identifying actual and potential causes of incidents",
+      "b": "To maximiza the number of successful IT changes by ensuring risks are properly assessed",
+      "c": "To capture demand for incident resolution and serivce requests",
+      "d": "To set clear business-based targets for service performance"
+    }
   },
   "26": {
     "question": "How should an organization adopt Continual Improvement methods?",
-    "answers": [
-      { "a": "Use a new method for each improvement the organization handles" },
-      {
-        "b": "Select a few key methods for the types of improvement that the organization handles"
-      },
-      {
-        "c": "Build the capability ot use as many improvement methods as possible"
-      },
-      {
-        "d": "Select a single method for all improvements that the organization handles"
-      }
-    ]
+    "answers": {
+      "a": "Use a new method for each improvement the organization handles",
+      "b": "Select a few key methods for the types of improvement that the organization handles",
+      "c": "Build the capability ot use as many improvement methods as possible",
+      "d": "Select a single method for all improvements that the organization handles"
+    }
   },
   "27": {
     "question": "Which ITIL concept describes Governance?",
-    "answers": [
-      { "a": "The seven guiding principles" },
-      { "b": "The four dimentions of service management" },
-      { "c": "The service value chain" },
-      { "d": "The service value system" }
-    ]
+    "answers": {
+      "a": "The seven guiding principles",
+      "b": "The four dimentions of service management",
+      "c": "The service value chain",
+      "d": "The service value system"
+    }
   },
   "28": {
     "question": "Which is a recommendation of the Service Desk practice?",
-    "answers": [
-      { "a": "Service desks should avoid the use of automation" },
-      { "b": "Service desks should be highly technical" },
-      { "c": "Service desks should understand the wider organization" },
-      {
-        "d": "Service desks should be a physical team in a single fixed location"
-      }
-    ]
+    "answers": {
+      "a": "Service desks should avoid the use of automation",
+      "b": "Service desks should be highly technical",
+      "c": "Service desks should understand the wider organization",
+      "d": "Service desks should be a physical team in a single fixed location"
+    }
   },
   "29": {
     "question": "Which guiding principle recommends organizing work into smaller, managemeable sections that can be executed and completed in a timely manner?",
-    "answers": [
-      { "a": "Focus on Value" },
-      { "b": "Start where you are" },
-      { "c": "Progress iteratively with feedback" },
-      { "d": "Collaborate and promote visibility" }
-    ]
+    "answers": {
+      "a": "Focus on Value",
+      "b": "Start where you are",
+      "c": "Progress iteratively with feedback",
+      "d": "Collaborate and promote visibility"
+    }
   },
   "30": {
     "question": "What is a Standard Change?",
-    "answers": [
-      {
-        "a": "A change that is well understood, fully documented and pre-authorized"
-      },
-      {
-        "b": "A change that needs to be assessed, authorized, and scheduled by a change authority"
-      },
-      {
-        "c": "A change that doesn't need a risk assessment becayse it is required to resolve an incident"
-      },
-      {
-        "d": "A change that is assessed, authorized, and scheduled as part of Continual Improvement"
-      }
-    ]
+    "answers": {
+      "a": "A change that is well understood, fully documented and pre-authorized",
+      "b": "A change that needs to be assessed, authorized, and scheduled by a change authority",
+      "c": "A change that doesn't need a risk assessment becayse it is required to resolve an incident",
+      "d": "A change that is assessed, authorized, and scheduled as part of Continual Improvement"
+    }
   },
   "31": {
     "question": "What happens if a workaround becomes the permanent way of dealing with a problem that cannot be resolved cost-effectively?",
-    "answers": [
-      { "a": "A change request is rubmitted to change control" },
-      { "b": "Problem management restores the service as soon as possible" },
-      { "c": "The problem remains in the known error status" },
-      { "d": "The problem record is deleted" }
-    ]
+    "answers": {
+      "a": "A change request is rubmitted to change control",
+      "b": "Problem management restores the service as soon as possible",
+      "c": "The problem remains in the known error status",
+      "d": "The problem record is deleted"
+    }
   },
   "32": {
     "question": "What is the definition of a Change?",
-    "answers": [
-      {
-        "a": "To add, modify or remove anything that could have a direct or indirect effect on services"
-      },
-      {
-        "b": "To ensure that accurate and reliable information about the configuration of services is available"
-      },
-      {
-        "c": "To make new and changed services and features available for use"
-      },
-      {
-        "d": "to move new or changed hardware, software, or any other component to live environments"
-      }
-    ]
+    "answers": {
+      "a": "To add, modify or remove anything that could have a direct or indirect effect on services",
+      "b": "To ensure that accurate and reliable information about the configuration of services is available",
+      "c": "To make new and changed services and features available for use",
+      "d": "to move new or changed hardware, software, or any other component to live environments"
+    }
   },
   "33": {
     "question": "What is the definition of an Event?",
-    "answers": [
-      {
-        "a": "Any change of state that has significance for the management of a service or other configuration item"
-      },
-      {
-        "b": "Any component that needs to be managed in order to deliver an IT Service"
-      },
-      {
-        "c": "An unplanned interruption to a service or reduction in the quality of a service"
-      },
-      {
-        "d": "Any financially valuable component that can contribute to the delivery of an IT Product or Service"
-      }
-    ]
+    "answers": {
+      "a": "Any change of state that has significance for the management of a service or other configuration item",
+      "b": "Any component that needs to be managed in order to deliver an IT Service",
+      "c": "An unplanned interruption to a service or reduction in the quality of a service",
+      "d": "Any financially valuable component that can contribute to the delivery of an IT Product or Service"
+    }
   },
   "34": {
     "question": "Which describes outcomes?",
@@ -393,64 +302,56 @@
   },
   "35": {
     "question": "Which is NOT a key focus of the Information and Technology dimension?",
-    "answers": [
-      { "a": "Security and compliance" },
-      { "b": "Communication systems and knowledge bases" },
-      { "c": "Worflow management and inventory systems" },
-      { "d": "Roles and responsibilities" }
-    ]
+    "answers": {
+      "a": "Security and compliance",
+      "b": "Communication systems and knowledge bases",
+      "c": "Worflow management and inventory systems",
+      "d": "Roles and responsibilities"
+    }
   },
   "36": {
     "question": "Which practices are typically involved in the implementation of a problem resolution?\r\nContinual Improvement\r\nService Request Management\r\nChange Control",
-    "answers": [
-      { "a": "1 and 2" },
-      { "b": "2 and 3" },
-      { "c": "3 and 4" },
-      { "d": "1 and 4" }
-    ]
+    "answers": {
+      "a": "1 and 2",
+      "b": "2 and 3",
+      "c": "3 and 4",
+      "d": "1 and 4"
+    }
   },
   "37": {
     "question": "Which is a key consideration for the principle Keep it Simple and Practical?",
-    "answers": [
-      { "a": "Try to create a solution for every exception" },
-      { "b": "Understand how each element contributes to value creation" },
-      { "c": "Ignore the conflicting objectives of different stakeholders" },
-      { "d": "Start with a complex solution, then simplify" }
-    ]
+    "answers": {
+      "a": "Try to create a solution for every exception",
+      "b": "Understand how each element contributes to value creation",
+      "c": "Ignore the conflicting objectives of different stakeholders",
+      "d": "Start with a complex solution, then simplify"
+    }
   },
   "38": {
     "question": "What should be done first when applying the Focus on Value principle?",
-    "answers": [
-      { "a": "Identify the outcomes that the service facilitates" },
-      { "b": "Identify all suppliers and partners involved in the service" },
-      { "c": "Determine who the service consumer is in each situation" },
-      { "d": "Determine the cost of providing the service" }
-    ]
+    "answers": {
+      "a": "Identify the outcomes that the service facilitates",
+      "b": "Identify all suppliers and partners involved in the service",
+      "c": "Determine who the service consumer is in each situation",
+      "d": "Determine the cost of providing the service"
+    }
   },
   "39": {
     "question": "A service provider describes a package that includes a laptop with software, licenses, and support. What is this package an example of?",
-    "answers": [
-      { "a": "Value" },
-      { "b": "An outcome" },
-      { "c": "Warranty" },
-      { "d": "A service offering" }
-    ]
+    "answers": {
+      "a": "Value",
+      "b": "An outcome",
+      "c": "Warranty",
+      "d": "A service offering"
+    }
   },
   "40": {
     "question": "What is the definition of warranty?",
-    "answers": [
-      {
-        "a": "A tangible or intangible deliverable that is produced by carrying out an activity"
-      },
-      {
-        "b": "The assurance that a product or service will meet agreed requirements"
-      },
-      {
-        "c": "A possible event that could cause harm or loss, or make it more difficult to achieve objectives"
-      },
-      {
-        "d": "The functionality offered by a product or service to meet a particular need"
-      }
-    ]
+    "answers": {
+      "a": "A tangible or intangible deliverable that is produced by carrying out an activity",
+      "b": "The assurance that a product or service will meet agreed requirements",
+      "c": "A possible event that could cause harm or loss, or make it more difficult to achieve objectives",
+      "d": "The functionality offered by a product or service to meet a particular need"
+    }
   }
 }
